@@ -6,3 +6,11 @@ p {
     font-size: 20px;
     line-height: 40px;
 }
+
+.navbar-brand {
+    background-color: teal;
+}
+
+.card {
+    margin: 10px;
+}
